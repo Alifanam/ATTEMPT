@@ -8,6 +8,7 @@ I am a Computer teacher by profession. I am also a students of MSCS 1st semester
 - Art
 - Photography & Videography
 - Writing
+- Reading Novels
 
 ### My Assignment
 I am doing practice of Euclid.java.
